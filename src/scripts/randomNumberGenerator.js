@@ -30,4 +30,6 @@ export default function randomNumberGenerator() {
     } else {
         console.log('number is null')
     }
+
+    return getRandomNumber
 }
